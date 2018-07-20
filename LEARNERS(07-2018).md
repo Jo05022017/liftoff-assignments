@@ -77,7 +77,7 @@
 - Xiaoyu K
 - Vincent K
 - Matthew K
-- Johanna K
+- [Johanna, Kovac (@Jo05022017] (https://github.com/Jo05022017/liftoff-assignments.git)
 - Joshua K
 - [Kumar, Anil (@anilkumar21k](https://github.com/anilkumar21k/liftoff-assignments.git)
 - Sunita L
