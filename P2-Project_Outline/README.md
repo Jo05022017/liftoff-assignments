@@ -7,11 +7,18 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Website to encourage the use of credit cards for participants via Cashback. Participants must to reach $ 500 spend goal to be eligible for Cashback. Once the goal is reached, they will earn the bonus in cashback based on their total spend. All valid transactions will earn 4x cashback per purchase.
 ### Features
-Include Features here
+- Login Page
+- Email confirmation
+- View theirs current accumulate spend amount
+- View the sum cashback
 ### Technologies
-Include Technologies here
+- SprigBoot
+- Java
+- MySql
+- Javascript
+
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to learn Javascript

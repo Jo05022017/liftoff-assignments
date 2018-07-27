@@ -8,8 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+- Register Page
+- Log in Page
+- Welcome Page
+- Log Out Page
+
 
 ### Project Tracker
+[CashBack Project Tracker](https://app.moqups.com/johayane@yahoo.com/Ojv5HSy9P7/view)
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+I added a couple of the stories user to the project tracker for my second week.
